@@ -1,7 +1,0 @@
-<<<<<<< Updated upstream
-=======
-This is the master file
-Some upate on master
-update on track files
-more changes
->>>>>>> Stashed changes
