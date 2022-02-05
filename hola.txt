@@ -5,3 +5,7 @@ one1
 two
 three
 four
+git commit --ament -m "<new messag>"
+git reset --hard <commitHash>
+
+develop1
