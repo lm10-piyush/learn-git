@@ -2,7 +2,7 @@ this is master.
 it is an edit.
 
 git merge --abort
-com2
+bhola3
 bola2
 
 bhola
