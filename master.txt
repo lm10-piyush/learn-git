@@ -1,3 +1,4 @@
 this is master.
 it is an edit.
 
+git merge --abort
